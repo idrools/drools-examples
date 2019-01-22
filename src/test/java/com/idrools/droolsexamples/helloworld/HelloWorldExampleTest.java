@@ -21,6 +21,7 @@ public class HelloWorldExampleTest {
     public void helloWorldKieSession() {
         helloWorldExample.helloWorldKieSession();
 
+
     }
     @Test
     public void helloWorldbyKieContainer() {
